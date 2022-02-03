@@ -1,0 +1,9 @@
+body{
+    /* border:20px; */
+    background:url(main.png)no-repeat center center fixed;
+    background-size: cover;
+}
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
